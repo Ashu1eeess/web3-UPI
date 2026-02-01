@@ -158,7 +158,6 @@ See [SECURITY.md](SECURITY.md) for reporting vulnerabilities.
 
 ## 📄 License
 
-[Specify your license here, e.g., MIT, Apache 2.0, or proprietary]
 
 ---
 
